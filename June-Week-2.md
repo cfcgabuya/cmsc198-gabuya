@@ -6,21 +6,21 @@
 - 2. Fix input fields.
 	* Name suffix should be placed with firstname.
 	* Dropdown menu items should be in alphabetical order.
-	* Spell out abbreviations/acronyms of words.
+	* Spell out abbreviations/acronyms.
 	* Input fields for addresses should be text areas.
 - 3. Resize font size and overall layout of webpages.
 	* Resize into bigger font size.
-	* Fix webpage sidebar/dashboard layout according to the new size of font.
+	* Fix webpage sidebar/dashboard layout according to the new font size.
 	
 ## Done
 - [x] Fix webpage fluid design.
-	* Researched about fluid design, applied it to the project, edited CSS and PHP files, fixed inconsistency of webpage, 
+	* Researched about fluid design, applied it to the project, edited CSS and PHP files, fixed inconsistency of webpage.
 	* Time taken: 2 days
 - [x] Fix input fields.
-	* Name suffix is placed beside first name, dropdown menu items are alphabetized through accessing the backend, some abbreviations/acronyms are spelled out, input fields for addresses are made into text areas.
+	* Name suffix is placed beside firstname, dropdown menu items are alphabetized through accessing the backend, some abbreviations/acronyms are spelled out, input fields for addresses are made into text areas.
 	* Time taken: 2 days
 - [x] Resize font size and overall layout of webpages.
-	* Font size of website text is larger, webpage sidebar/dashboard layout is fixed according to the new size of the font.
+	* Font size of website text is larger, webpage sidebar/dashboard layout is fixed according to the new font size.
 	* Time taken: 1 day
 
 ## To be done
@@ -36,4 +36,4 @@
 - 2. It is best to implement fluid design CSS as soon as the webpage is being designed.
 
 ## Hardest task done this week
-- Fix webpage fluid design since the project used the default Bootstrap CSS and only minor changes should be done so that it will not affect the other webpage components. I searched online for possible ways to implement fluid design on the webpages and applied it to 
+- Fix webpage fluid design since the project used the default Bootstrap CSS and only minor changes should be done so that it will not affect the other webpage components. I searched online for possible ways to implement fluid design on the webpages and applied them to solve the design problem.
